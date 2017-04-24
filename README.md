@@ -1,4 +1,4 @@
-Distance calculation using Google Distance Matrix.
+Distance is calculated using Google Distance Matrix.
 With the aid google developers website, an API key was generated using my perosnal email ID.
 This code calculates the distance between two points,namely origin and destination.
 The distance is displayed in Km. 
