@@ -10,6 +10,7 @@ destinations = destination.replace(' ', '+')
 
 apikey = 'AIzaSyAhNrQUiopQZpKdnLifngOUyfAQc9rILiw' #This is my API Key. Do not use it elsewhere. 
 url = 'https://maps.googleapis.com/maps/api/distancematrix/json?origins=' + origins + '&destinations=' + destinations + '&departure_time=1541202457&traffic_model=best_guess&key=' + apikey
+#print url to check for exact details of the location
 
 response = urllib2.urlopen(url)
 res = simplejson.load(response)
