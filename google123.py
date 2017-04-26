@@ -1,5 +1,5 @@
-import googlemaps
-import simplejson
+import googlemaps #googlemaps library is used to know locations and distances
+import simplejson #to show in the json format
 import urllib2
 
 origin = str(raw_input('Enter Origin City: '))
