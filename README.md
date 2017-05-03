@@ -1,4 +1,5 @@
 Distance is calculated using Google Distance Matrix.
+The distance calculated is the road distance between any two cities and not the least possible distance between any two cities.
 With the aid google developers website, an API key was generated using my perosnal email ID.
 This code calculates the distance between two points,namely origin and destination.
 The distance is displayed in Km. 
