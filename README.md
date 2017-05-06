@@ -15,7 +15,7 @@ This code was constructed on python 2.7.13 and on MacOS Sierra. You will need to
 
 Contact-
 
-If you face any difficulties then contact at either rajyavardhan.singh_ug19@ashoka.edu.in or ishan.randhawa_ug19@ashoka.edu.in.
+rajyavardhan.singh_ug19@ashoka.edu.in or ishan.randhawa_ug19@ashoka.edu.in.
 
 Project by- Rajyavardhan Singh, Ishan Randhawa
 
